@@ -73,3 +73,9 @@
     border-radius: 5px;
     text-align: center;
 }
+
+.card-item:hover {
+    background-color:#C4F82A ;
+    cursor: pointer;
+    color: #323232;
+}
