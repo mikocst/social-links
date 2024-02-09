@@ -1,0 +1,75 @@
+.body {
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card-section {
+    background-color: #131313 ;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 3rem;
+}
+
+.card-wrapper {
+    background-color: #1E1E1E;
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.card-header-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.jessica-img {
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+}
+
+.text-green {
+    color: #BFD286;
+}
+
+.card-wrapper-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-item {
+    margin-top: 0.5rem;
+    margin-bottom:0.5rem;
+    padding: 1rem;
+    min-width: 15em;
+    background-color:#323232;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    text-align: center;
+}
